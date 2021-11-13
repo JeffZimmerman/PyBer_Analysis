@@ -1,5 +1,5 @@
 # PyBer_Analysis: 
-# An Examination and Visualization of Ride-Sharing Data Across City Types
+# An Examination Ride-Sharing Data Across City Types
 
 ## Overview
 The purpose of this analysis was to resample data on ride-sharing services to better focus specifically on differences between types of cities, defined as Urban, Suburban, and Rural. New dataframes were created using Matplotlib functionality to merge csv files, reorganize, resort, and relabel the data into a more ideal form. The specific application was identified as creating effective visualization of the data for presentation to the CEO of a ride-sharing company, herself well-versed in data analytics and data visualization.
